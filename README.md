@@ -36,7 +36,7 @@ Simulare un confronto tra diversi approcci economici per analizzare:
 
 - Python ≥ 3.9
 - Pacchetti:
-  - `pyautogen`
+  - `ag2`
   - `openai`
   - `fpdf2`
 
